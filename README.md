@@ -7,10 +7,16 @@ Get started
 npx degit techvicious/techvicious-vite my-app
 
 cd my-app
+
+npm install
 ```
 
 Develop
-`npm run dev`
+```
+npm run dev
+```
 
 Build
-`npm run build`
+```
+npm run build
+```
